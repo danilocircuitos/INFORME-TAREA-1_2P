@@ -125,6 +125,19 @@ Ejercicios Capitulo 7
 
 Ejercicios Capitulo 8
 
+![image](https://user-images.githubusercontent.com/93210648/146955141-b4bc2887-3d1d-4b87-8c8a-facb68b955ff.png)
+
+![image](https://user-images.githubusercontent.com/93210648/146955168-274a573b-b4fb-4735-84f9-d8feef98dbb6.png)
+
+![image](https://user-images.githubusercontent.com/93210648/146955183-7ddd68c4-ee65-42fc-99e9-21f055fea66a.png)
+
+![image](https://user-images.githubusercontent.com/93210648/146955204-a1ed6ddd-0f0f-4d5a-9203-d186843eb299.png)
+
+![image](https://user-images.githubusercontent.com/93210648/146955266-c1eb96e6-04f4-45e2-9028-c073ae191aaa.png)
+
+![image](https://user-images.githubusercontent.com/93210648/146955389-300e1aac-9e12-43b6-86e5-9b6d88674af9.png)
+
+
 13.  Determine el voltaje del punto A al punto B en la figura 8-73.
 
 ![image](https://user-images.githubusercontent.com/93210648/146943419-1703cc40-1205-43a2-85ec-d532df5e0997.png)
@@ -195,6 +208,8 @@ SECCIÓN 8–6 Teorema de Norton
 ![image](https://user-images.githubusercontent.com/93210648/146940175-1eb1835a-38a4-4a30-a527-8ab59b3cfd04.png)
 
 4. Video:
+
+https://youtu.be/gpHAPatRe98
 
 
 5. Conclusiones: • Aprendimos a calcular la resistencia total de un circuito en un circuito serie-paralelo mediante el anasis de estos.
